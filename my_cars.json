@@ -1,0 +1,4 @@
+[
+  { "car_problems": ["engine", "breaks"], "total_cost": 3000 },
+  { "car_problems": ["engine", "5000 km treatment"], "total_cost": 2500 }
+]
